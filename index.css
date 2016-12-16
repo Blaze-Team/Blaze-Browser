@@ -3,18 +3,13 @@ body {
   height: 4000px;
 }
 
-@font-face {
-  font-family: NK57_bold;
-  src: url(NK57fontBold.ttf);
-}
-
 #topTitleBar {
   height: 150px;
   width: 100%;
   background-color: #FF9800;
   border-bottom: solid 10px #F57C00;
   margin: 0px;
-  font-family: NK57_bold;
+  font-family: 'Slabo 27px', serif;
   position: fixed;
 }
 
