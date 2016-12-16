@@ -4,7 +4,8 @@ body {
 }
 
 @font-face {
-  
+  font-family: 'NK57fontBold';
+  src: url(../Blaze-Browser/NK57fontBold.ttf);
 }
 
 #topTitleBar {
