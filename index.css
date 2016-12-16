@@ -5,7 +5,7 @@ body {
 
 @font-face {
   font-family: NK57_bold;
-  src: url(NK57fontBold.ttf);
+  src: url(https://github.com/Blaze-Team/Blaze-Browser/blob/gh-pages/NK57fontBold.ttf);
 }
 
 #topTitleBar {
