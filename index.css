@@ -5,7 +5,7 @@ body {
 
 @font-face {
   font-family: 'NK57fontBold';
-  src: url(../Blaze-Browser/NK57fontBold.ttf);
+  src: url(NK57fontBold.ttf);
 }
 
 #topTitleBar {
@@ -14,7 +14,7 @@ body {
   background-color: #FF9800;
   border-bottom: solid 10px #F57C00;
   margin: 0px;
-  font-family: 'NK57fontBold', serif;
+  font-family: NK57fontBold;
   position: fixed;
 }
 
